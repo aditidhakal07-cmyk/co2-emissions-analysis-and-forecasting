@@ -33,4 +33,4 @@ Visitors can open the Jupyter notebooks directly on GitHub to view the Python co
 
 ## Project Attribution
 
-This project was completed as part of coursework of Data Analysis subject Sustainable Energy Systems Master's programme at the University of Applied Sciences Upper Austria.
+This project was completed as part of coursework of Data Analysis subject for Sustainable Energy Systems Master's programme at the University of Applied Sciences Upper Austria.
