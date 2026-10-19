@@ -25,7 +25,6 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
 
 - [Total CO₂ Analysis](Notebooks/Total_CO2.ipynb) – Historical trends, statistical analysis, and time-series forecasting.
 - [Sectoral CO₂ Analysis](Notebooks/Sectorwise_CO2.ipynb) – Sector-wise comparisons and visualizations.
-- [Project Report (PDF)](Documentation/Data_Analysis_Report_Group_8.pdf) – Detailed methodology, results, and discussion.
 - [Input Data](Data/) – Datasets used for the analysis.
 
 ## How to Explore This Repository
